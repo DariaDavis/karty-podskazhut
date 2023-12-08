@@ -197,6 +197,7 @@ figure {
   background-repeat: no-repeat;
   position: absolute;
   left: -30px;
+  top: calc(50% - 8px);
 }
 
 .theme_dark .content__list-item::before {
@@ -234,7 +235,7 @@ figure {
 
   width: calc(100% + 5vi);
   position: relative;
-  margin-left: -5vi;
+  right: 5vi;
 }
 
 .content__picture {
